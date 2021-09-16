@@ -1,16 +1,22 @@
-### Hi there 👋
+<pre> 
+$ echo profile.txt
 
-<!--
-**tejpym/tejpym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! I’m Tejashwin 👋  
 
-Here are some ideas to get you started:
+- Building scalable backend systems while surviving on coffee and code  
+- Tinkering with Java, Go, and sometimes Rust (when I feel brave)  
+- Exploring distributed architectures because apparently I like complexity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 <b>Current Obsession</b>
+- <a href="https://github.com/tejashwinn/spendsense">spendsense</a> – an expense tracker that splits bills and sanity equally  
+
+🚀 <b>Tech Stack</b>  
+- Languages: Java, Go, Python, TypeScript, Rust  
+- Frameworks & Tools: Spring Boot, Gin, Encore, Docker, Kubernetes
+
+📚 <b>Papers & Ideas</b>  
+- Decentralized society using Soulbound tokens – because centralization is so 2020
+
+also my <a href="https://github.com/tejashwinn/resume/blob/main/Tejashwin_U_Resume.pdf">resume</a>
+
+</pre>

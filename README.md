@@ -5,7 +5,7 @@ Hey there! I’m Tejashwin 👋
 - Tinkering with Java, Go, and sometimes Rust (when I feel brave)  
 - Exploring distributed architectures because apparently I like complexity  
 
-💻 <b>Current Obsession</b>
+💻 <b>Currently working on</b>
 - <a href="https://github.com/tejashwinn/spendsense">spendsense</a> – an expense tracker that splits bills and sanity equally
 - <a href="https://github.com/tejashwinn/rustyrock">rustyrock</a> – porting rocks db in rust so that i can learn rust and db internals
 

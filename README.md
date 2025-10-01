@@ -18,6 +18,6 @@ Hey there! I’m Tejashwin 👋
 📚 <b>Papers & Ideas</b>  
 - Decentralized society using Soulbound tokens – because centralization is so 2020
 
-also my <a href="https://github.com/tejashwinn/resume/blob/main/Tejashwin_U_Resume.pdf">resume</a>
-
+i also have a website <a href="https://www.tejashwin.com">tejashwin.com</a>
+  
 </pre>

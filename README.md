@@ -1,6 +1,4 @@
 <pre> 
-$ echo profile.txt
-
 Hey there! I’m Tejashwin 👋  
 
 - Building scalable backend systems while surviving on code  
